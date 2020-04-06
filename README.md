@@ -1,4 +1,4 @@
-# cityguide-final
+# city_guide
 
 
 ## 프로젝트 소개
